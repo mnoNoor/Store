@@ -15,7 +15,7 @@ export default function ProductsList() {
   return (
     <div className="p-6 bg-white border rounded-lg shadow-lg mt-6">
       <h2 className="text-xl font-bold mb-4">Products List</h2>
-      <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 mr-5">
+      <ul className="grid grid-cols-1 sm:grid-cols-3 md:grid-cols-4 gap-6 mr-5">
         {products.map((product) => (
           <li
             key={product.id}
