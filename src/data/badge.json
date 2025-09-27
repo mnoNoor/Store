@@ -1,0 +1,26 @@
+[
+  {
+    "name": "electronics",
+    "color": "#2563eb"
+  },
+  {
+    "name": "games",
+    "color": "#dc2626"
+  },
+  {
+    "name": "accessories",
+    "color": "#059669"
+  },
+  {
+    "name": "makeup",
+    "color": "#db2777"
+  },
+  {
+    "name": "clothes",
+    "color": "#7c3aed"
+  },
+  {
+    "name": "books",
+    "color": "#ea580c"
+  }
+]

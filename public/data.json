@@ -1,0 +1,346 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iPhone 14 Pro",
+      "category": "electronics",
+      "price": 999,
+      "description": "The latest iPhone with advanced features.",
+      "image": "data:image/webp;base64,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"
+    },
+    {
+      "id": 2,
+      "name": "Sony WH-1000XM4 Headphones",
+      "category": "electronics",
+      "price": 349,
+      "description": "Industry-leading noise canceling headphones.",
+      "image": " https://th.bing.com/th/id/OIP.B4ZpRhAkszS_lq1SDFfA9gHaHa?w=178&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 3,
+      "name": "PlayStation 5",
+      "category": "games",
+      "price": 499,
+      "description": "The latest games console from Sony.",
+      "image": "https://th.bing.com/th/id/OIP.ERGSjRtbHvfVaAFVE5LBaAHaHH?w=134&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 4,
+      "name": "Ray-Ban Wayfarer Sunglasses",
+      "category": "accessories",
+      "price": 150,
+      "description": "Iconic sunglasses with a timeless design.",
+      "image": "https://th.bing.com/th/id/OIP.y7JWdkgOvWOwytROqDg21gHaJ4?w=202&h=269&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 5,
+      "name": "MAC Lipstick - Ruby Woo",
+      "category": "makeup",
+      "price": 25,
+      "description": "Classic matte red lipstick.",
+      "image": "https://th.bing.com/th/id/OIP.DvKTOyIxAPULYb5Q1EVTNAHaHa?w=184&h=184&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 6,
+      "name": "Levi's 501 Original Jeans",
+      "category": "clothes",
+      "price": 60,
+      "description": "Classic straight-leg jeans.",
+      "image": "https://th.bing.com/th/id/OIP.PyrxWL-qCgMGu52h_xEsHQHaG0?w=202&h=186&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 7,
+      "name": "The Alchemist by Paulo Coelho",
+      "category": "books",
+      "price": 15,
+      "description": "A philosophical book about following your dreams.",
+      "image": "https://th.bing.com/th/id/OIP.NGjL3HvpWkh2D1vteOsHDAHaHa?w=202&h=202&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 8,
+      "name": "Samsung Galaxy S23",
+      "category": "electronics",
+      "price": 899,
+      "description": "A powerful Android smartphone.",
+      "image": "https://th.bing.com/th/id/OIP.2HFtW-tmli-lclS2Nq4ruQHaHk?w=161&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 9,
+      "name": "Xbox Series X",
+      "category": "games",
+      "price": 499,
+      "description": "The latest games console from Microsoft.",
+      "image": "https://th.bing.com/th/id/OIP.Gq9R2DNg4RuSipHADKKtJAHaEK?w=287&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 10,
+      "name": "Fossil Gen 5 Smartwatch",
+      "category": "accessories",
+      "price": 295,
+      "description": "A stylish smartwatch with various features.",
+      "image": "https://th.bing.com/th/id/OIP.E4VG_UBPow_qzjmRnYiyxgHaLG?w=125&h=188&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 11,
+      "name": "NARS Blush – Deep Throat",
+      "category": "makeup",
+      "price": 32,
+      "description": "A universally flattering peachy-pink blush.",
+      "image": "data:image/webp;base64,UklGRqoNAABXRUJQVlA4IJ4NAAAQSwCdASoJAQ4BPp1MoUulpCOno9JqePATiWdu+F9J3zGM3JaOzy+k9ZXgf5bvlucjl7tL+yCdT+u7+fkRqHPL7QvvV5uH1Hmb9i+XG8KD7F/qvYG/nP9r9Yn/G8rv1p7DPlj+w/92/Zp/bEkPEuoIeJdQQ8S6gh4l1BDxLqCHiXUEPEuoIeJdQQ8S6gh4l1BDxKUeuN+QQNEEHDn8u2/HG5YBi9J6ZR9NAcHJIAPs9IFL67N+X8NJ5o9ze/4yNWR44LWSq8FH3b003vZuGkrQ+LTLoWjgPvfgDgzfvjmiu3EtpyckSy887CIMIdNmOVHAey4a87WuFIoRUzzFrHdhTo2RwIiARUOB1xXwoSmxLOnsJWPW36Od5gP2CBb59VEN4L/6dOKxn9XLi4gnAl+ZQfqrKE1RFkmchsacQ8DnPoLzt5fpGyKC2oeCqgX+HJdWMjEPIb6QFcSk/HkTTHl0Zh2iaHVnXKsOgNYZi605V+nG/PVmZM7lN6YrGqQiakifnUWnntXXcxy652nO23kbzqHH1ZnyCeUdDGtUrO7VsYFg6VJRvu4F7LqJyZSdK5CkO4zVLXb/2TttCc7HGWE8NQgEpgRHFy4ZKKI6T/UW4FIhrOY1xhY05r3WlWDCO1wnX+55GXb/mOoAsNIJY7EWFlrgPt/6TVM7pO0F55eW/9DCIgeEc534oDKarianOJeaMkVo/TftZgBbX7PKH4w7Qd3HNJ665euAZOUvYI/LuU7T6r1rt8eiZ1EpmI/cSKgyYkVBkxIqDJiRUGTEioMmJFQZMSKgyYkVBkxIqDJiJgAA/v5rcAAAAABO5OjAn8Jbi0/vtN3k7t+h/dGeZ8fPml/Lm1o/NYNODD/giphjvX/K7De6a0oTZPZlSGyXqPITsT5t7FJMYlChDzube3JUuTTuHtXyNdGp82zny2X8QfvN1fheH8+qfHRpBo5z6xZKa8F8ayiAnGobbwP6RXBt8lY4gq/9IW8JRJ8NvG07fm211a1Nxl9zqgzLfNgrfOw45UQ692xQRViH7vIRdmMP6u0HnMC0vMGiXP4oxB2EI8a/xQ8o42HV/N7s4AaTHFowKvRdjq9UXjJFdNrgVxR7T876eNJPoKNeBSIsHiLMmw9LaprHRl/PKltzPdUwFJXdfxu+PCtuKcV2wXMgLRwGVGLeVP2E0Llf11hDVyU7NKpNmPhRoRNKC+wdCsv9o7bXxW0fi5tKljwsP2ysD+zMTnmjvSgArdghqHrUwh3M4ZrutMlO3TacbuXqNHwtMGBqxAVkaTTR1Nk1XZZIpwsvme3wY/ytL+btd9LH1kxrr8lhgFoY+8DeqEqPiTxz7x+TB0F6fAoSzkhATrXfBMEzyyu0Who0loGQNOAwuhCWi1OcmgFjjzx0oeWBh1DfFMfji/ESLPZ6JthBnTgeCPOQ+eDGpwfFU07lw9uU6ccYEoI6+npXNcbZzBs4mnKbW10EtUNtLi9ixjEo1EJYUjnX+KGBF6Cwhx0C3nlB0yPzZpiyYBKz8Qki2zFLTYShvx7PMO0IGqCTTa23RrI7pkHz3Bom84DGGodRhcqfwGJb/K6JkXYmgqkVgemy/VC+cPxaUzc7qSiHjeIJZzS+54bPNALuh+AnImveJMh8zVmYVNjbAdiW7p5nmb/0X2ZIuUOCk5fIwXxLrSwD26A0TQ/T6TSIxr7jDX0jj9CxadcklYWpViHHD6z4lFF2sEV8muaK6LL/99Y9mOaBXkY20DWVTJ8rUXYp+5O31xc6xnkjpcv8osVaCoNpIR20hZXHXOfIiwP55OAOSFwEU18tDA6IW3R98llwcI5cL71ZRd4YoSTWWvn+zvEQIEeGBrizmpDd+eKKMlmqs/NLxGf/s4F7+ctTzIrv7TmN3q2Vb/By/Lcuv/sIUi235fU0Llyy47fuCJCX94OJLwthGagn6Rfb3swQJT2G9t65dyRTdbiVNGFVAodyyYQVZDDjkodrTn1CwYp/TKTjSZd3QpJZcBSJetVjC+zQQmSwvWAP3i9aAIhJJg2X2i/LDu5jrgQMwBotYcjd7F9SUj302dsK6Y+b8ojQi3FysmHOR66XLZ3yM4/glPfDTJZgCZTRurMhjbmgEWbNXkwEvhYwGrTZdLKXl9bGLttWt/PYo5w0DPm+DA2k9XqO1B9hSd8F3Yz4E9Sqh9ueM5FnvkrRwcy5N+mFdEHkKv3Bpvi0dyA7yEfmcRhogKV91XpYjuZy+Joiy3z4fgy+DS0Oaagro82MNbx0xMsAdYES53/uUK64MA7bTlIQlaZg5ZPBnE5zbFr+tv8h2N0EyJ5N9Jfj/d/kLKLW90fEQuUL5L8piR9xp85/Szbi2Lxuo2C7T4A2nLyTuQZ58EIL9QvI/myVF9+aZbD0HayMJyaA2n3gGHrS+U2trGitLnASJyP3KDk4RfFWV3mqp4SmKumuRQNfHBtta7lNRhTIFxTE2/xpPw/sBUitjbPVzq/FsYkKVJgXgLiHqSYBmoBzmnUOr+UEhwmbMJQ5CwdYtp+kk1k3uzrk/BLoSRsnA+mCS3EOHGkUh33y+0BFEFKKMZ++3pu9ezI8SkAE9NpF8Rsnb5fm787ns/MaQ1er1xl9ERII7Xx68iSNy4Aqsl8LXHG9RnrLyJltCRZEknvnoa0TQRA2tm46vDe8xRWz7SMx50Mcxl3EXhyZnWb/8amZxbbN03pyQge+3GrOt7HMcnUmKdR77NIfxKN6HVMvyE8ulq2SuzgHcQVETaXOEm7c2UoujMo/ByjIlPfRcKJM77aMtdT2vuCv5P/Hp0MYdA45E1rvBOTNezCptfgfTL7sub8/xzQI0fe4o86dJxqH7SaAxURfoigYxbFdevvfS9uiAB1uSvMk0roUtK7tVGsOBgehuk1VAEYM4OtBp/VBW17+VArXTSWnagmUdiUD+EIz8gdkelfPqt93pdJX+18up5R/8wEJNl22WDyui3v6HIf5W2QJMngev7jrPb0mLhLaEPS4rjMBCQrOe5ywiaJFFC9BicJd2Cpza1SZTjpgB8l5Px8WKodyH9b1ofhj10asv6ESd8/fd9TKPNh7trw/lEIxVnsOSrkKqAX8UEChsYVMgs6Ttn41VDcH+h0b+q+G3Si12sKLwDmCUuz8gzfuQLJp3m3amnRICJ5FHEwSHwT5uf5G2adl6BrIikK57b7OV13vr0eSFvR8IGZ3N9yvrROrLN0wvj3t8vABYKv9qGp2Z5IRJe66XLPe/memTzgh3zpxbJiXKaAWi2f+867O7t7MONjf3PT3IxXAwnyD+3w34Jwr3WHvRbcXsydabh3dvevmvKrolCvSH4xF0MBm0YIQQ4v6TTvVKY5zmAWSNleEHvm4qunV5PugKTn5fVAbPwE1RXWTxAdydnioIJvGcOcU253HFNAPRqqhFG6ra7ShFn8vAdQFvDTsJcLsRtDd+CrLTvBGAmcEl7C5BrHagIedn6AhxGXaAyV9ehx+pmClyzyWUACd9jtN+rwACUyphgrNIwHaep6SaURVHMlJLZeXBuJV0vcfLW/pWY5lbWV/lAmtCeEAUKxaRVT3QVphi+CEATkjrhY2BuMCd1YG3eKAUAw2jzY/fDhyrU7uLp/nHSQo5FuoYPlJoEwwnco0i6T9YAgPE3hdMgIYnigbq/79LTJhev3dMEann1crKiHVOYjhtOcVgmdYEvjjcYcDbQ7yZ8Xdf0X4ENQp2kae5GJkEY+QYg2pS4JMU+feg/pvxk81kArPwOS5uMj7XzTecuJiey/htHQq0Mz7IuJ/jpzhspS8yE2sKf+JB6fpWc2u0jiH6SrPSFcjXREDCYF8V3mBWd11CjO1yKdMLnuFWgzsAiE4oMckKYt9U48PSgd96TrW7TzwZJ4YXNcp+u03kc4eM2eKHwi9BjjBTijROXD+qTUWhC8Q9HuAm77MPTRbBPS+pACobpEZ51n8S7SVMsd1f1eS9/815GhHltmr28Y0u0nG7Rv8YTDkTFytfY4DhgCKEdf8NR02ylMHboupVKuvMIPGcLG0k1Mjv3wYQVV4W2bLACa/fKvAqIyv5Wm+taHql0dP/T2eeUsTLKj+yYVwX3MRJaawHVfTWrTOAsyckeSwpMNzwdGOnz2k5h9m9zn12JlQA+2l7T8/QCEsjxzKDj37fG6SPH2vcPVpNyJTzW8xQ4vIV1YjnG9f5N966oWQRXxj1X1EP2qA3UaSuiHiI6cYM0BQkheNSPtNEuSg+bBnrYq12PIi2Qz6b8resW7uPdNUIOavb4k4CJpoa9GXtazBt2nfigT22barYlaglyk/gG1hCHM1INoCmvi3np3zGFqz/Ur4jzLVCIHxWb0kAhLxaDlRGfCzCePCVDF54bgQYPlRxZEErg8nVKY1wt5cQW/nBzO3ZDWR0NbGnR1dLbRRdRW6f3uc+lLDk+LnQJZzh4/rSIP6iuolBW+bdpfUgrX9u79NM/4C8fLiqkYXLmoAiaU0BVT2jCtbn+9392R9HHnaudsPZIjMJ3n86qnZLnam94LcC0HRc0z5t+Al3Nf8rWYy6/A5sL9WLgY6NX4oCJiHi7bIcKpvks8SZpsEEjBs8yHktaHM9vA+vP4qpUNFVDirtYtXoBggJojRhrkTBjJtJVBGAtpuywAbzgAAAAAAAAA="
+    },
+    {
+      "id": 12,
+      "name": "Nike Air Max 270",
+      "category": "clothes",
+      "price": 150,
+      "description": "Comfortable and stylish sneakers.",
+      "image": "https://th.bing.com/th/id/OIP.61qu4p1bZC14EOd0ARNOEQHaJQ?w=157&h=197&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 13,
+      "name": "Anne with an 'E': Anne of Green Gables",
+      "category": "books",
+      "price": 20,
+      "description": "The memoir of the former First Lady of the United States.",
+      "image": "https://m.media-amazon.com/images/I/51ubRej6xIL._SY445_SX342_QL70_FMwebp_.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Apple MacBook Air",
+      "category": "electronics",
+      "price": 999,
+      "description": "Lightweight and powerful laptop from Apple.",
+      "image": "https://th.bing.com/th/id/OIP.V0zHBzuvrdVukfC8DmNNNAHaEK?w=212&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 15,
+      "name": "Anastasia Beverly Hills Eyeshadow Palette",
+      "category": "makeup",
+      "price": 45,
+      "description": "Highly pigmented eyeshadow palette with multiple shades.",
+      "image": "https://th.bing.com/th/id/OIP.CCNq-VGT3Q5OcuYw-uut0QHaGf?w=218&h=192&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 16,
+      "name": "Adidas Ultraboost",
+      "category": "clothes",
+      "price": 180,
+      "description": "High-performance running shoes.",
+      "image": "https://th.bing.com/th/id/OIP.t3O-1KDg9vlEavqzGsh_VAHaHa?w=232&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 17,
+      "name": "The Midnight Library by Matt Haig",
+      "category": "books",
+      "price": 13,
+      "description": "A novel about the choices that go into a life well lived.",
+      "image": "https://th.bing.com/th/id/OIP.0oxD3WjMHttXNlD6EHxGbQHaKc?w=137&h=193&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 18,
+      "name": "Nintendo Switch",
+      "category": "games",
+      "price": 299,
+      "description": "Hybrid games console for home and on-the-go play.",
+      "image": "https://th.bing.com/th/id/OIP.PTvow5KL4_qY2QH3eG2_dAHaE1?w=252&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 19,
+      "name": "Oakley Holbrook Sunglasses",
+      "category": "accessories",
+      "price": 140,
+      "description": "Stylish sunglasses with UV protection.",
+      "image": "https://th.bing.com/th/id/OIP.7ICzHpusj6rnGHcTmwab6gHaHa?w=179&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 20,
+      "name": "Patagonia Down Sweater",
+      "category": "clothes",
+      "price": 229,
+      "description": "A lightweight and warm down jacket.",
+      "image": "https://th.bing.com/th/id/OIP.VddS9zH6ApmhXbrgJ7bY1wHaHa?w=199&h=199&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 21,
+      "name": "iPad Air",
+      "category": "electronics",
+      "price": 599,
+      "description": "Powerful tablet for work and creativity.",
+      "image": "https://th.bing.com/th?id=OIF.zdPB1XIO7h9w2wH0%2f7aoEg&w=265&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 22,
+      "name": "Chess Board",
+      "category": "games",
+      "price": 59,
+      "description": "Classic wooden chess board with pieces.",
+      "image": "https://th.bing.com/th/id/OIP.2fp12SpCiFmAXafEnN2qkgHaE5?w=243&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 23,
+      "name": "Leather Wallet",
+      "category": "accessories",
+      "price": 85,
+      "description": "Genuine leather wallet with multiple card slots.",
+      "image": "https://th.bing.com/th/id/OIP.YBUwXe-0YahFbxglOQse_QHaHa?w=188&h=188&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 24,
+      "name": "Foundation - Fenty Beauty",
+      "category": "makeup",
+      "price": 35,
+      "description": "Longwear foundation with wide shade range.",
+      "image": "https://th.bing.com/th/id/OIP.1TrL3sCdcoQH1g3SBf01ZgAAAA?w=242&h=194&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "id": 25,
+      "name": "Zara Blazer",
+      "category": "clothes",
+      "price": 89,
+      "description": "Classic fit blazer for formal occasions.",
+      "image": "https://th.bing.com/th/id/OIP.226QYW_HBEhlVGfhcm6b-AHaJ4?w=202&h=269&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 26,
+      "name": "Harry Potter Complete Series",
+      "category": "books",
+      "price": 75,
+      "description": "Complete collection of all Harry Potter books.",
+      "image": "https://th.bing.com/th/id/OIP.NGnnQHjJ72eB4EIIeY7ZTwHaHa?w=200&h=200&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 27,
+      "name": "AirPods Pro",
+      "category": "electronics",
+      "price": 249,
+      "description": "Wireless earbuds with active noise cancellation.",
+      "image": "https://th.bing.com/th/id/OIP.hgyIiIr5-muzN3IqRUE2wgHaFP?w=243&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 28,
+      "name": "Eyeshadow Palette - Urban Decay",
+      "category": "makeup",
+      "price": 54,
+      "description": "Naked palette with neutral eyeshadow shades.",
+      "image": "https://th.bing.com/th/id/OIP.xCQxdx3EAUOhlxEv8D6hIQHaD6?w=302&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 29,
+      "name": "Uniqlo T-Shirt Pack",
+      "category": "clothes",
+      "price": 25,
+      "description": "Pack of 3 basic cotton t-shirts.",
+      "image": "https://th.bing.com/th/id/OIP.vJi-XbcQ1qejK0ooYiU7YgHaHa?w=179&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 30,
+      "name": "Designer Handbag",
+      "category": "accessories",
+      "price": 350,
+      "description": "Luxury handbag from premium brand.",
+      "image": "https://th.bing.com/th/id/OIP.ZjRNSnaY_gbOm1H8mtSJUwHaHa?w=202&h=202&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 31,
+      "name": "Kindle Paperwhite",
+      "category": "electronics",
+      "price": 139,
+      "description": "E-reader with waterproof design.",
+      "image": "https://th.bing.com/th/id/OIP.0mzEpE4qbeORXnpEpJTB_wHaHa?w=188&h=188&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 32,
+      "name": "Mascara - Too Faced",
+      "category": "makeup",
+      "price": 26,
+      "description": "Lengthening and volumizing mascara.",
+      "image": "https://th.bing.com/th/id/OIP.-q6fSbcz8gZP5agNwyU8SAHaHZ?w=189&h=188&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 33,
+      "name": "H&M Dress",
+      "category": "clothes",
+      "price": 45,
+      "description": "Casual summer dress in various colors.",
+      "image": "https://th.bing.com/th/id/OIP.NhXuKbtMrYNExJCf5Dt0NAHaLH?w=202&h=303&c=7&r=0&o=5&dpr=1.5&pid=1.7"
+    },
+    {
+      "id": 34,
+      "name": "Silk Scarf",
+      "category": "accessories",
+      "price": 65,
+      "description": "Luxury silk scarf with printed pattern.",
+      "image": "https://th.bing.com/th/id/OIP.r05V1OdXu8IqQklJoM4rBgHaHa?w=202&h=202&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 35,
+      "name": "Atomic Habits by James Clear",
+      "category": "books",
+      "price": 18,
+      "description": "Guide to building good habits and breaking bad ones.",
+      "image": "https://th.bing.com/th/id/OIP.TN6RpUT0cWDj95a12xRNAwHaHW?w=154&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 36,
+      "name": "games Headset",
+      "category": "games",
+      "price": 79,
+      "description": "Surround sound headset for immersive games.",
+      "image": "https://th.bing.com/th/id/OIP.WwphNRUl3qvBzppjf3W4aQHaHa?w=187&h=188&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 37,
+      "name": "Concealer - Tarte",
+      "category": "makeup",
+      "price": 29,
+      "description": "Full coverage concealer for dark circles.",
+      "image": "https://th.bing.com/th/id/OIP.SbDHEtIHrO2BjvfPuwOU3QHaIq?w=186&h=218&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 38,
+      "name": "North Face Jacket",
+      "category": "clothes",
+      "price": 199,
+      "description": "Waterproof jacket for outdoor activities.",
+      "image": "https://th.bing.com/th/id/OIP.Xr48-e527x2MSUiOiSSSmQHaIe?w=189&h=217&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 39,
+      "name": "Stainless Steel Watch",
+      "category": "accessories",
+      "price": 120,
+      "description": "Classic analog watch with leather strap.",
+      "image": "https://th.bing.com/th/id/OIP.6PRLVIs5vnHvGgd00-kmyQHaHa?w=199&h=199&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    },
+    {
+      "id": 40,
+      "name": "The Hobbit by J.R.R. Tolkien",
+      "category": "books",
+      "price": 16,
+      "description": "Fantasy novel precursor to Lord of the Rings.",
+      "image": "https://th.bing.com/th/id/OIP.Uul26pdEb0NI_9r7N1pKlAHaLi?w=200&h=311&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3"
+    }
+  ],
+  "bestSales": [
+    {
+      "productId": 1,
+      "sales": 150
+    },
+    {
+      "productId": 3,
+      "sales": 120
+    },
+    {
+      "productId": 8,
+      "sales": 200
+    },
+    {
+      "productId": 14,
+      "sales": 90
+    },
+    {
+      "productId": 21,
+      "sales": 110
+    }
+  ]
+}
