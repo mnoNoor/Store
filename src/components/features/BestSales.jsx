@@ -23,7 +23,7 @@ export default function BestSales() {
   return (
     <div className="p-6 bg-white border rounded-lg shadow-lg mt-6">
       <h2 className="text-xl font-bold mb-4">Best Sales</h2>
-      <ul className="grid grid-cols-2 md:grid-cols-5 gap-6 mr-5">
+      <ul className="grid grid-cols-2 md:grid-cols-3 gap-6 mr-5">
         {bestSellingProducts.map((product) => (
           <li
             key={product.id}
