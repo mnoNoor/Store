@@ -23,11 +23,11 @@ export default function BestSales() {
   return (
     <div className="p-6 bg-white border rounded-lg shadow-lg mt-6">
       <h2 className="text-xl font-bold mb-4">Best Sales</h2>
-      <ul className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-5 gap-6 mr-5">
+      <ul className="grid grid-cols-2 md:grid-cols-5 gap-6 mr-5">
         {bestSellingProducts.map((product) => (
           <li
             key={product.id}
-            className="text-center bg-white shadow-md rounded-lg p-3 hover:shadow-lg transition border border-gray-400"
+            className="flex flex-col justify-between text-center bg-white shadow-md rounded-lg p-3 hover:shadow-lg transition border border-gray-400"
           >
             <Link to={`/product/${product.id}`}>
               <img

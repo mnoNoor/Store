@@ -341,6 +341,10 @@
     {
       "productId": 21,
       "sales": 110
+    },
+    {
+      "productId": 27,
+      "sales": 130
     }
   ]
 }

@@ -15,13 +15,13 @@ export default function ProductsList() {
   return (
     <div className="p-6 bg-white border rounded-lg shadow-lg mt-6">
       <h2 className="text-xl font-bold mb-4">Products List</h2>
-      <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 mr-5">
+      <ul className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6 mr-5 items-stretch">
         {products.map((product) => (
           <li
             key={product.id}
-            className="text-center bg-white shadow-md rounded-lg p-3 hover:shadow-lg transition border border-gray-400"
+            className="flex flex-col justify-between text-center bg-white shadow-md rounded-lg p-3 hover:shadow-lg transition border border-gray-400"
           >
-            <Link to={`/product/${product.id}`}>
+            <Link to={`/product/${product.id}`} className="flex-1">
               <img
                 src={product.image}
                 alt={product.name}
@@ -31,11 +31,13 @@ export default function ProductsList() {
                 {product.name}
               </p>
             </Link>
-            <span className="text-gray-600 text-sm block mt-1">
-              ${product.price}
-            </span>
-            <div className="mt-2">
-              <AddButton product={product} text="Add to Cart" />
+            <div>
+              <span className="text-gray-600 text-sm block mt-1">
+                ${product.price}
+              </span>
+              <div className="mt-2">
+                <AddButton product={product} text="Add to Cart" />
+              </div>
             </div>
           </li>
         ))}

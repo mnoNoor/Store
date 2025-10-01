@@ -20,7 +20,7 @@ export default function AddButton(props) {
   return (
     <div>
       <Button
-        className="bg-yellow-300 hover:bg-yellow-400 hover:cursor-pointer text-black"
+        className="bg-yellow-300 hover:bg-yellow-400 hover:cursor-pointer text-black w-full sm:w-auto text-xs sm:text-sm"
         onClick={toAddAndShow}
       >
         {props.text}

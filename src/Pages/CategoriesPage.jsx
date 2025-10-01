@@ -44,7 +44,7 @@ export default function CategoriesPage() {
           {categoryItems.map((item) => (
             <li
               key={item.id}
-              className="text-center bg-white shadow-md rounded-lg p-3 hover:shadow-lg transition border border-gray-400"
+              className="flex flex-col justify-between text-center bg-white shadow-md rounded-lg p-3 hover:shadow-lg transition border border-gray-400"
             >
               <Link to={`/product/${item.id}`}>
                 <img
