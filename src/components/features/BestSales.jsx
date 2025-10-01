@@ -33,16 +33,20 @@ export default function BestSales() {
               <img
                 src={product.image}
                 alt={product.name}
-                className="w-24 h-24 mx-auto mb-2 object-cover rounded-md"
+                className="w-20 h-20 mx-auto mb-2 object-cover rounded-md"
               />
-              <p className="font-semibold text-sm leading-snug hover:underline hover:cursor-pointer">
+              <p className="font-semibold text-xs leading-tight hover:underline hover:cursor-pointer line-clamp-2">
                 {product.name}
               </p>
             </Link>
-            <span className="text-gray-600 text-sm block mt-1">
+            <span className="text-gray-600 text-xs block mt-1">
               ${product.price}
             </span>
-            <AddButton text="Buy One Now" product={product}>
+            <AddButton
+              text="Buy One Now"
+              product={product}
+              className="text-xs py-1 px-2 mt-1"
+            >
               Buy Now
             </AddButton>
           </li>
