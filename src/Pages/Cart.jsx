@@ -6,9 +6,7 @@ export default function Cart() {
   const cart = useCartStore((state) => state.cart);
   const removeFromCart = useCartStore((state) => state.removeFromCart);
   const clearCart = useCartStore((state) => state.clearCart);
-  const newTotal = useCartStore((state) =>
-    state.cart.reduce((sum, p) => sum + p.price * p.quantity, 0)
-  );
+  const newTotal = cart.reduce((sum, p) => sum + p.price * p.quantity, 0);
 
   return (
     <div>
@@ -65,6 +63,7 @@ export default function Cart() {
                 </h2>
               </div>
             </div>
+          </div>
         )}
       </main>
       <Footer />
