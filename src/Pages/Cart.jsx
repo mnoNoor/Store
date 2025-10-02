@@ -44,26 +44,27 @@ export default function Cart() {
                 </button>
               </div>
             ))}
-            <div className="sticky bottom-0 w-full bg-white p-4 border-t flex justify-between items-center shadow-lg">
-              <div>
-                <button
-                  className="bg-gray-800 text-white px-6 py-3 rounded hover:bg-gray-900"
-                  onClick={clearCart}
-                >
-                  Clear Cart
-                </button>
-                <button
-                  className="bg-green-500 text-white px-6 m-5 py-3 rounded hover:bg-green-600"
-                  onClick={clearCart}
-                >
-                  Confirm Order
-                </button>
+            <div className="sticky bottom-0 w-full bg-white p-4 border-t shadow-lg">
+              <div className="flex flex-col md:flex-row justify-between items-center gap-4">
+                <div className="flex flex-col sm:flex-row gap-3">
+                  <button
+                    className="bg-gray-800 text-white px-6 py-3 rounded hover:bg-gray-900 w-full sm:w-auto"
+                    onClick={clearCart}
+                  >
+                    Clear Cart
+                  </button>
+                  <button
+                    className="bg-green-500 text-white px-6 py-3 rounded hover:bg-green-600 w-full sm:w-auto"
+                    onClick={clearCart}
+                  >
+                    Confirm Order
+                  </button>
+                </div>
+                <h2 className="text-lg md:text-xl font-semibold text-center md:text-right">
+                  Total: ${newTotal.toFixed(2)}
+                </h2>
               </div>
-              <h2 className="text-xl font-semibold">
-                Total: ${newTotal.toFixed(2)}
-              </h2>
             </div>
-          </div>
         )}
       </main>
       <Footer />
